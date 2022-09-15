@@ -67,6 +67,7 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        z-index: 2;
     }
     header .wrap .menu ul.active{ left: 0;}
     header .wrap .menu ul li{margin: 20px 0;}
