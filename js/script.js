@@ -64,7 +64,7 @@ const pageAbout = {
                 </div>
                 
                 <div class="mygreet">
-                    <p class="gt">Junior Web Front-End Developer</p>
+                    <p class="gt">Junior Web Publisher & Front-End Developer</p>
                     <h3>안녕하세요</h3>
                     <h3>끊임없는 <span>배움</span>으로 더욱 <span>성장</span>하고 싶은</h3>
                     <h3 class="myname"><span>진예주</span>입니다.</h3>
